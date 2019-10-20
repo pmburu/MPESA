@@ -1,1 +1,1 @@
-# MPESA
+# This is an MPESA test for the random code that it produces for every transaction.
